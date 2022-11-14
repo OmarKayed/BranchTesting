@@ -8,4 +8,5 @@ public abstract class Animal {
     public abstract Boolean eat (String foodType);
 
 
+
 }
